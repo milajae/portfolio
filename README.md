@@ -27,7 +27,6 @@ SEO Manager & Analyst	 Mar 2015 - Mar 2019
 - Executed diverse SEO strategies by conducting comprehensive data research and analysis for multiple campaigns and websites, resulting in consistent 30% year-over-year growth.
 - Improved conversion rates by 4% and generated high-quality leads through the analysis of consumer behavioural metrics on clients' websites.
 
-- 
 
 ### Education
 
@@ -43,3 +42,4 @@ Udemy | 2024
 #### Statistics for Data Science and Business Analysis
 Udemy | 2024
 
+### Projects
